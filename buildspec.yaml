@@ -16,4 +16,4 @@ phases:
       - echo Configuring Nginx 
 artifacts:
   files:
-    - '**/*'
+  - '**/*'
